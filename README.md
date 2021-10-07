@@ -1,6 +1,6 @@
 # Java Hibernate MySql Web Application Stock Management System
 
-
+The Depo project is a web application developed with Java Hibernate. It is an application where various products are sold to customers, money input, and money output transactions are made and followed easily. It is necessary to log in to the application through registered users. Customers and products can be added, deleted, updated, and this information can be listed. In addition, a purchase process is avaliable. Products can be sold to customers with a basket mode. In addition, any product can be purchased from outside and added to the warehouse. All of the transactions can be listed. In addition, general statistics can be displayed on the application dashboard page.
 
 ## Demo Account Information
 
